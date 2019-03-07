@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang='en'>
+  <head>
+    <meta charset='UTF-8'/>
+    
+    <title> CSS Selectors </title>
+    
+    <link re='stylesheet' href='styles.css'/>
+  </head>
+  
+    <body>
+    <div> class='page'>
+    
+      <h1> CsSS Selectors </h1>
+      
+      <p> class='synnopsis'> CSS selectors let you <em>select</em> individual HTML elements in an HTML
+          document. This <strong>super</strong> useful. </p>
+          
+      <p> Classes are ridiculously important, since they allow you to select
+          arbitrary boxes in your web pages. </p>
+          
+      <p> We'll also be talking about links in this example, so here's
+          <a href='https://internetishard.com'>Interneting Is Hard</a> for us to style. </p>
+          
+      <div clas='button'>Button One</div>
+      
+      <!-- could also do
+      <a class='button' href='nowhere.html'>Button Two</a> -->
+  <a class='button call-to-action' href='nowhere.html'>Button Two</a> -->
+      <div class='button call-to-action'>Button Two</div>
+      
+    </div>
+    
+  </body>
+</html>
